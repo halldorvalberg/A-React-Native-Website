@@ -1,13 +1,13 @@
 # TO-DO
 
-* Create a basic web page
-** Create a landing page with pictures and basic info
-** Create an about page
-** Create a contact page
-** Create a projects page
+1. Create a basic web page
+    1. Create a landing page with pictures and basic info
+    2. Create an about page
+    3. Create a contact page
+    4. Create a projects page
 
-* Get basic web page on to a github server
+2. Get basic web page on to a github server
 
-* Get a domain to direct to git server
+3. Get a domain to direct to git server
 
-* Deploy code updates form git push to domain
+4. Deploy code updates form git push to domain
